@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+.light-mode {
+  background-color: #f9f9f9;
+  color: #000;
+}
+.dark-mode {
+  background-color: #181818;
+  color: #fff;
+}
